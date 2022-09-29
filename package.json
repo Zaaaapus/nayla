@@ -1,5 +1,5 @@
 {
-  "name": "nayla-bot",
+  "name": "Zaaaapus-bot",
   "version": "1.2",
   "description": "Simple Wabot",
   "main": "index.js",
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/zevoffc/nayla.git"
+    "url": "git+https://github.com/Zaaaapus/nayla.git"
   },
   "keywords": [
     "whatsapp-bot"
